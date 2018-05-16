@@ -6,6 +6,11 @@ Martin Fowler在自己网站上写了一篇LMAX架构的文章，在文章中他
 
 Disruptor它是一个开源的并发框架，并获得2011 Duke’s 程序框架创新奖，能够在无锁的情况下实现网络的Queue并发操作。本文是Disruptor官网中发布的文章的译文（现在被移到了GitHub）。
 
+## 下载
+- [pdf](https://legacy.gitbook.com/download/pdf/book/lixiangyun/disruptor)
+- [mobi](https://legacy.gitbook.com/download/mobi/book/lixiangyun/disruptor)
+- [epub](https://legacy.gitbook.com/download/epub/book/lixiangyun/disruptor)
+
 ## 剖析Disruptor为什么会这么快
 
 - [(一) 锁的缺点](1.1.md)
